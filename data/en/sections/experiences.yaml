@@ -1,0 +1,55 @@
+# section information
+section:
+  name: Research Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: National University of Singapore
+    url: ""
+    location: Personality and Psychopathology Lab
+
+  positions:
+  - designation: Graduate Research Assistant
+    start: Jun 2022
+    # end:
+    
+- company:
+    name: Duke-NUS Medical School
+    url: ""
+    location: A/Prof Bibhas Chakraborty's Research Lab
+
+  positions:
+  - designation: Graduate Research Assistant
+    start: Sep 2021
+    # end:
+    
+- company:
+    name: Singapore General Hospital
+    url: ""
+    location: Department of Psychology
+
+  positions:
+  - designation: Associate Clinical Research Coordinator
+    start: Jan 2021
+    end: Jun 2021
+    
+  - designation: Clinical Research Intern
+    start: Mar 2019
+    end: Dec 2020
+    
+- company:
+    name: Nanyang Technological University
+    url: ""
+    location: NTU Touch Lab (now the Kobe Multisensory Lab)
+
+  positions:
+  - designation: Student Researcher
+    start: Aug 2018
+    end: Jun 2019

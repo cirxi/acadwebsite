@@ -1,0 +1,61 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: PhD in Psychology
+  icon: fa-microscope
+  timeframe: 2021 - Present
+  institution:
+    name: National University of Singapore
+    url: "#"
+  # grade: #(optional)
+  #   scale: CAP
+  #   achieved: 4.83
+  #   outOf: 5
+
+- name: B.Soc.Sc in Psychology with Honours
+  icon: fa-graduation-cap
+  timeframe: 2017-2021
+  institution:
+    name: Nanyang Technological University
+    url: "#"
+  # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 4.53
+  #   outOf: 5
+  # takenCourses: #(optional)
+  #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+  #   showGrades: true
+  #   collapseAfter: 3
+  #   courses:
+  #   - name: Data Structures and Algorithm
+  #     achieved: 3.75
+  #     outOf: 4
+  #   - name: Network Security
+  #     achieved: 3.80
+  #     outOf: 4
+  #   - name: Operating System
+  #     achieved: 3.5
+  #     outOf: 4
+  #   - name: Artificial Intelligent
+  #     achieved: 3.75
+  #     outOf: 4
+  
+- name: Overseas Semester Exchange
+  icon: fa-plane
+  timeframe: 2019-2019
+  institution:
+    name: University of Melbourne
+    url: "#"
+  # grade: #(optional)
+  #   scale: WAM
+  #   achieved: 83.25
+  #   outOf: 100

@@ -1,0 +1,28 @@
+
+# some information about you
+name: "Utek"
+nickname: "Utek"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: " "
+image: /images/author/avatar.jpg
+
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "utek@outlook.com"
+  github: cirxi
+  mastodon:
+    icon: mastodon
+    url: "https://fediscience.org/web/@utek"
+    text: "@utek@fediscience.org"
+  twitter:
+    icon: twitter
+    url: "https://twitter.com/utekleong"
+    text: utekleong    
+
+# some summary about what you do
+summary:
+  - Personality
+  - Health
+  - Psychopathology
+  - and everything in between

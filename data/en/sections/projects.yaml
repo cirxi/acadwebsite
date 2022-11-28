@@ -12,21 +12,21 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Research
-  filter: "research"
+# - name: Research
+#   filter: "research"
 # - name: Personal
 #   filter: "personal"
 
 # your projects
 projects:
 
-- name: "Participant Engagement in Micro-Randomised Trials of mHealth Interventions: a scoping review"
+- name: "Participant Engagement in Micro-Randomized Trials of mHealth Interventions: A Scoping Review"
   logo: 
   role: Co-author
   timeline: "June 2022 - Present"
   # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #repo: 
   # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  url: "https://osf.io/xdnr8/"
-  summary: This project with Associate Professor Bibhas Chakraborty has been registered on OSF. We have completed the systematic search, source selection, and data extraction; writing is currently in progress.
-  tags: ["scoping review", "research", "micro-randomised trials", "mHealth"]
+  url: "https://psyarxiv.com/4wjva"
+  summary: The preprint for this scoping review is available on PsyArXiv.
+  tags: ["scoping review", "micro-randomised trials", "mHealth"]

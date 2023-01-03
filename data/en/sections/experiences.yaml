@@ -11,16 +11,6 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: National University of Singapore
-    url: ""
-    location: Personality and Psychopathology Lab
-
-  positions:
-  - designation: Graduate Research Assistant
-    start: Jun 2022
-    # end:
-    
-- company:
     name: Duke-NUS Medical School
     url: ""
     location: A/Prof Bibhas Chakraborty's Research Lab
@@ -29,6 +19,16 @@ experiences:
   - designation: Graduate Research Assistant
     start: Sep 2021
     # end:
+
+- company:
+    name: National University of Singapore
+    url: ""
+    location: Personality and Psychopathology Lab
+
+  positions:
+  - designation: Graduate Research Assistant
+    start: Jun 2022
+    end: Dec 2022
     
 - company:
     name: Singapore General Hospital
